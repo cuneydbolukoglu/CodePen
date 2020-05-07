@@ -1,0 +1,67 @@
+html, body {
+  margin: 0;
+  padding: 10px 0px;
+}
+
+h1 {
+  font-size: 22px;
+  text-align: center;
+}
+
+.slider {
+  overflow: hidden;
+  margin-bottom: 10px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.slider .slides {
+  width: 900px;
+  height: 400px;
+}
+
+.slider img {
+  width: 900px;
+  height: 400px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  list-style: none;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+nav ul {
+  list-style: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  cursor: pointer;
+}
+
+nav ul li {
+  margin-left: 10px;
+}
+
+nav ul li img {
+  width: 70px;
+  height: 70px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+/*# sourceMappingURL=main.css.map */
