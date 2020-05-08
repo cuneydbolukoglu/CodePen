@@ -2,4 +2,4 @@
 
 JavaScript Code Experiments
 
-Library: jQeury, BootStrap
+Librarys: jQeury, BootStrap
